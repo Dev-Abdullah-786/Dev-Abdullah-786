@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Khan,</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<img align="rigth" alt="dev" width="40px" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2FGDevs&psig=AOvVaw1N9G-pTVZTmGvRGcN2i0wG&ust=1715551120219000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLi9sI_MhoYDFQAAAAAdAAAAABAv](https://media2.giphy.com/media/WIAXKEDP8R0IBSAXUk/giphy.gif)">
+<img align="rigth" alt="dev" width="40px" src="https://media2.giphy.com/media/WIAXKEDP8R0IBSAXUk/giphy.gif">
 
 - 👀 I’m interested **in exploring new technologies, solving complex problems, and contributing to open source projects.**
 
