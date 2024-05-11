@@ -5,8 +5,6 @@
 
 - 👀 I’m interested **in exploring new technologies, solving complex problems, and contributing to open source projects.**
 
-- 📫 You can connect with me on [https://www.linkedin.com/in/abdullah-khan-3a5523258/](https://www.linkedin.com/in/abdullah-khan-3a5523258/)
-
 - 🌱 Currently, I’m delving **into advanced JavaScript frameworks like React.js, Angular.js and Vue.js to elevate my frontend development skills. Moreover, I'm diving deeper into backend technologies such as Node.js and Express.js.**
 
 - 💞️ I’m seeking collaborations **on intriguing projects where I can leverage my skills and glean insights from fellow collaborators. Feel free to reach out if you have any exciting opportunities!**
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad abdullah khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abdullah khan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-abdullah-khan-3a5523258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abdullah khan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
