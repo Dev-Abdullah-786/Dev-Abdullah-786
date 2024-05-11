@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Khan,</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<img align="center" alt="dev" width="500px" src="https://media2.giphy.com/media/WIAXKEDP8R0IBSAXUk/giphy.gif">
+<img align="right" alt="dev" width="500px" src="https://media2.giphy.com/media/WIAXKEDP8R0IBSAXUk/giphy.gif">
 
 - 👀 I’m interested **in exploring new technologies, solving complex problems, and contributing to open source projects.**
 
