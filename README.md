@@ -1,6 +1,6 @@
 ![Banner](https://github.com/M-Abdullah-Khan-786/M-Abdullah-Khan-786/blob/main/JS.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Khan</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <img align="right" alt="dev" width="400px" src="https://media2.giphy.com/media/WIAXKEDP8R0IBSAXUk/giphy.gif">
 
