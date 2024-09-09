@@ -51,13 +51,11 @@
 
 <h2 align="center">Additional Stats:</h2>
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-abdullah-khan-786&show_icons=true&locale=en&layout=compact" alt="m-abdullah-khan-786" />
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=m-abdullah-khan-786&show_icons=true&locale=en" alt="m-abdullah-khan-786" />
-    &nbsp;
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-khan-786&" alt="m-abdullah-khan-786" />
-  </p>
+
+![](https://github-readme-stats.vercel.app/api?username=M-Abdullah-Khan-786&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=M-Abdullah-Khan-786&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abdullah-Khan-786&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 <!---
