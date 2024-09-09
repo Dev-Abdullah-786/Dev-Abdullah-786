@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I'm an avid reader and enjoy exploring various cuisines in my leisure time.
 
-<h2 align="center">Connect with me:</h2>
+<h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/" height="50" width="50" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/?lang=en" height="50" width="50" /></a>
@@ -26,7 +26,7 @@
 <a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/" height="50" width="50" /></a>
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
+<h1 align="center">Languages and Tools:</h1>
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
@@ -49,7 +49,7 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/> </a>
 </p>
 
-<h2 align="center">Additional Stats:</h2>
+<h1 align="center">Additional Stats:</h1>
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=M-Abdullah-Khan-786&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
