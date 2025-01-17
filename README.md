@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in exploring new technologies, solving complex problems, and contributing to open source projects.
 
-- 🌱 Currently, I’m delving into advanced JavaScript frameworks like React.js, Angular.js and Vue.js to elevate my frontend development skills. Moreover, I'm diving deeper into backend technologies such as Node.js and Express.js.
+- 🌱 I have skills in advanced JavaScript and TypeScript frameworks like React.js, Next.js, and Redux Toolkit for frontend development. Additionally, I specialize in backend technologies, including Node.js, Express.js, API design with Swagger, to build scalable and efficient web applications.
 
 - 💞️ I’m seeking collaborations on intriguing projects where I can leverage my skills and glean insights from fellow collaborators. Feel free to reach out if you have any exciting opportunities!
 
