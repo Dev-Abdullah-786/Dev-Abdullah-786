@@ -1,9 +1,9 @@
-![Banner](https://github.com/M-Abdullah-Khan-786/M-Abdullah-Khan-786/blob/main/JS.gif)
+![Banner](https://github.com/Dev-Abdullah-786/Dev-Abdullah-786/blob/main/JS.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Khan</h1>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=32&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer" alt="Typing SVG" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=m-abdullah-khan-786&label=Profile%20views&color=0e75b6&style=flat" alt="m-abdullah-khan-786" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-abdullah-786&label=Profile%20views&color=0e75b6&style=flat" alt="dev-abdullah-786" /> </p>
 
 <img align="right" alt="dev" width="222px" src="https://media2.giphy.com/media/WIAXKEDP8R0IBSAXUk/giphy.gif">
 
@@ -54,13 +54,13 @@
 <h1 align="center">Additional Stats</h1>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=M-Abdullah-Khan-786&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=M-Abdullah-Khan-786&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abdullah-Khan-786&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Dev-Abdullah-786&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Abdullah-786&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Abdullah-786&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
 <!---
-M-Abdullah-Khan-786/M-Abdullah-Khan-786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev-Abdullah-786/Dev-Abdullah-786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
