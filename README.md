@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in exploring new technologies, solving complex problems, and contributing to open source projects.
 
-- 🌱 I have skills in advanced JavaScript and TypeScript frameworks like React.js, Next.js, and Redux Toolkit for frontend development. Additionally, I specialize in backend technologies, including Node.js, Express.js, API design with Swagger, to build scalable and efficient web applications.
+- 🌱 I have strong experience in modern JavaScript and TypeScript ecosystems, specializing in frontend frameworks such as React.js, Next.js, and Redux Toolkit. On the backend, I work with Node.js, Express.js, and NestJS, along with RESTful API design and documentation using Swagger, to build scalable, maintainable, and high-performance web applications.
 
 - 💞️ I’m seeking collaborations on intriguing projects where I can leverage my skills and glean insights from fellow collaborators. Feel free to reach out if you have any exciting opportunities!
 
