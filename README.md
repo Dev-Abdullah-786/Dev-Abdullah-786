@@ -126,7 +126,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dev-Abdullah-786&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Abdullah-786&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Abdullah-786&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<p align = "center"><img src = "https://github.com/Dev-Abdullah-786/Dev-Abdullah-786/blob/main/github-snake-game.svg" alt = "Snake Game"/></p>
+<p align = "center"><img src = "https://github.com/Dev-Abdullah-786/Dev-Abdullah-786/blob/main/github-snake-game.svg" alt = "Snake Game SVG"/></p>
 
 </div>
 
